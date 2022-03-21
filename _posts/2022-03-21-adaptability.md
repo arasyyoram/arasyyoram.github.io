@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adaptability"
-description: "한글로 된 글의 샘플입니다."
+description: "How to adapt to a new environment"
 date: 2022-03-21
 tags: [gigih, personal]
 comments: true
