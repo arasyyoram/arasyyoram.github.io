@@ -3,7 +3,7 @@ title: About
 permalink: /about/
 ---
 
-This theme is inspired by [Kiko](http://github.com/gfjaru/Kiko) theme.
+Hello! my name is Yoram. There's not much I can tell about myself as this website is still under development, but thanks for visiting.
 
 ## License
 
